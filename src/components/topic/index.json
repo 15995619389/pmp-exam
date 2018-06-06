@@ -1,0 +1,50 @@
+[
+	{
+		"items": {
+			"type": "不定项选择题",
+			"title": "下列哪些是javascript原始数据类型。",
+			"datas": [
+				{
+					"textId": 11,
+					"text": "的get方法中进行使用，这样使用起来没有vue-resource方便"
+				},
+				{
+					"textId": 12,
+					"text": "里在需要先将 this 赋值给 _self ,让后在"
+				},
+				{
+					"textId": 13,
+					"text": "这样使用起来没有"
+				},
+				{
+					"textId": 14,
+					"text": "这样使用起来没有"
+				}
+			]
+		}
+	},
+	{
+		"items": {
+			"type": "单选题",
+			"title": "下列哪些是javascript原始数据类型1111111。",
+			"datas": [
+				{
+					"textId": 1,
+					"text": "的get方法中进行使用，"
+				},
+				{
+					"textId": 2,
+					"text": "里在需样使用起来没有vue-resource方便"
+				},
+				{
+					"textId": 3,
+					"text": "这样javascript原始数据类型1111111"
+				},
+				{
+					"textId": 4,
+					"text": "javascript原始数据类型1111111"
+				}
+			]
+		}
+	}
+]

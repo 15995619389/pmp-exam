@@ -1,0 +1,24 @@
+{
+	"items": {
+		"type": "单项选择题",
+		"title": "下列哪些是javascript原始数据类型。",
+		"datas": [{
+				"textId": 11,
+				"text": "的get方法中进行使用，这样使用起来没有vue-resource方便"
+			},
+			{
+				"textId": 12,
+				"text": "里在需要先将 this 赋值给 _self ,让后在"
+			},
+			{
+				"textId": 13,
+				"text": "这样使用起来没有"
+			},
+			{
+				"textId": 14,
+				"text": "这样使用起来没有"
+			}
+		]
+	}
+
+}
